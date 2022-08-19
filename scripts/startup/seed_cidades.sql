@@ -1,0 +1,11 @@
+INSERT INTO municipio  (nome) 
+VALUES ('LINHARES'),
+('VILA VELHA'),
+('CARIACICA'),
+('VITÓRIA'),
+('SÃO MATEUS'),
+('GUARAPARI'),
+('COLATINA'),
+('COLATINA'),
+('ARACRUZ'),
+('SERRA');
